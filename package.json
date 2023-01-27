@@ -1,0 +1,19 @@
+{
+  "name": "teshe",
+  "version": "1.0.0",
+  "description": "this is the new thing that i creat here to try out github codespaces",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teshe-123/teshe-dummy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teshe-123/teshe-dummy/issues"
+  },
+  "homepage": "https://github.com/teshe-123/teshe-dummy#readme"
+}
